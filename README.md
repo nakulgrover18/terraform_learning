@@ -14,3 +14,5 @@ Terraform is a tool for building, changing, and versioning infrastructure. There
 3. `terraform apply`: Applies the changes to the infrastructure. This command creates, modifies, or deletes the resources as defined in the configuration.
 
 4. `terraform destroy`: Destroys the infrastructure created by the configuration.
+
+5. `terraform destroy -auto-approve` : Used to Destory the resources
